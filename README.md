@@ -7,7 +7,7 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 
 
-![image alt]()
+![image alt](https://github.com/Oluwato12-TB/PowerBI_Project/blob/main/PowerBI%20Dashboard.png)
 
 
 
